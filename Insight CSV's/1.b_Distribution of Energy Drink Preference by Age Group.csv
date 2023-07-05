@@ -1,0 +1,16 @@
+﻿Age,Gender,Count of Gender
+15-18,Female,516
+15-18,Male,903
+15-18,Non-binary,69
+19-30,Female,1891
+19-30,Male,3337
+19-30,Non-binary,292
+31-45,Female,834
+31-45,Male,1435
+31-45,Non-binary,107
+46-65,Female,138
+46-65,Male,261
+46-65,Non-binary,27
+65+,Female,76
+65+,Male,102
+65+,Non-binary,12
