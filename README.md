@@ -18,7 +18,6 @@ Product Development Insights: Through survey responses, popular flavor choices, 
 Influencer Marketing: The power of social media influencers was recognized, and potential brand advocates in the F&B industry with substantial followings were identified. Collaborating with these influencers will amplify CodeX's marketing efforts.
 
 # Project Structure
-data/: This folder contains the dataset used for the analysis.
-code/: This directory contains the code for data analysis, visualization, and generating insights.
-docs/: This directory contains the project documentation, including presentations and reports.
-README.md: This file provides an overview of the project, its objectives, and key findings.
+- Datasets: This folder contains all the datasets used for the analysis.
+- Insight CSV's: This folder contains all the insights generated in the form of csv's.
+- Project files: This folder contains all the project related files.
