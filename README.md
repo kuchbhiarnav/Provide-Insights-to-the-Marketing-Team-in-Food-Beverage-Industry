@@ -1,4 +1,4 @@
-# Provide-Insights-to-the-Marketing-Team-in-Food-Beverage-Industry
+# CodeX Product Dashboard
 This repository contains the project files and code for the CodeX Marketing Insights Project, as part of the Resume Project Challenge. The project focuses on providing valuable insights to CodeX's Marketing Team in the Food & Beverage (F&B) industry.
 
 # Project Overview
